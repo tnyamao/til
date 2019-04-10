@@ -5,7 +5,7 @@
 
 ## watchで1秒毎にコマンドを実行する
 
-'''watch -n 1 ls -F | gre v / | wc -l'''
+~~~ watch -n 1 ls -F | gre v / | wc -l ~~~
 
 サブディレクトリも含めて、ファイルを数える
 
