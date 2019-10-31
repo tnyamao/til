@@ -1,3 +1,3 @@
 # Windows Systemローカルの確認
-- コマンド
+- コマンド  
 systeminfo | findstr "Local"
